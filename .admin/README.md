@@ -5,6 +5,9 @@
 2. Skriv url til github repoet på tavlen:
 https://tinyurl.com/tenkbotiano
 
+## Meldings server:
+TODO: Burde vi resette denne etter hver gruppe?
+
 ## GCP Admin 
 ### Launch knapp
 1. Bruk lenken til å generere url lenken som tar elevene fra github til workshoppen
