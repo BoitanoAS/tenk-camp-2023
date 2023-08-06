@@ -9,3 +9,5 @@ Trykk på knappen for å starte oppdraget.
 Bruk brukernavnet og passordet som du fikk fra veilederene til å logge inn 
 
 
+
+Illustrasjonene i oppgavene er hentet fra Web illustrations by Storyset.
