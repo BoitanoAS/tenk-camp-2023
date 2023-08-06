@@ -29,3 +29,6 @@ TODO: Burde vi resette denne etter hver gruppe?
     ````bash
     sudo find jupyter-usr*/ -type d -name "tenk-camp-2023" -exec rm -r {} +
     ````
+
+### OPPGAVER FØR TENK
+- Skriv ut lapepr med brukernavn og passord
